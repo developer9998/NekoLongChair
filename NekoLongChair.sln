@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekoLongChair", "NekoLongChair\NekoLongChair.csproj", "{34C27997-BE1A-4BC8-905C-4B0F97804F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C27997-BE1A-4BC8-905C-4B0F97804F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C27997-BE1A-4BC8-905C-4B0F97804F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C27997-BE1A-4BC8-905C-4B0F97804F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C27997-BE1A-4BC8-905C-4B0F97804F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED941B54-3D74-4BBA-9E15-6E9F4F1991C1}
+	EndGlobalSection
+EndGlobal
